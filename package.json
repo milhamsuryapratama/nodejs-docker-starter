@@ -1,0 +1,17 @@
+{
+  "name": "start-nodejs-with-docker",
+  "version": "1.0.0",
+  "description": "contoh sederhana node js dan docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ilham",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
